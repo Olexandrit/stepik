@@ -30,4 +30,6 @@ def inputcoordintes():
 
     return str(X) + " " + str(Y)
 
-print(inputcoordintes())
+#print(inputcoordintes())
+
+print("Hello ")
